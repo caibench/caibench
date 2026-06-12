@@ -81,4 +81,9 @@ results, questions, and methodology feedback.
 
 ## License
 
-CAI Benchmark is distributed under the MIT License. © 2026 CAI Benchmark Project.
+CAI Benchmark is **free for personal and commercial use** — no account, no
+telemetry, no cost. Benchmark results may be published and cited freely with
+their methodology version. The methodology, scoring mathematics, and reference
+values are [openly documented](https://caibench.org/methodology.html); the
+source code is not currently open source. See [LICENSE](LICENSE) for the full
+terms. © 2026 CAI Benchmark Project.
